@@ -1,0 +1,12 @@
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\bin\Release\net6.0\DigitalSignalProcess.deps.json
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\bin\Release\net6.0\DigitalSignalProcess.dll
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\bin\Release\net6.0\DigitalSignalProcess.pdb
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\obj\Release\net6.0\DigitalSignalProcess.csproj.AssemblyReference.cache
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\obj\Release\net6.0\DigitalSignalProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\obj\Release\net6.0\DigitalSignalProcess.AssemblyInfoInputs.cache
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\obj\Release\net6.0\DigitalSignalProcess.AssemblyInfo.cs
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\obj\Release\net6.0\DigitalSignalProcess.csproj.CoreCompileInputs.cache
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\obj\Release\net6.0\DigitalSignalProcess.dll
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\obj\Release\net6.0\refint\DigitalSignalProcess.dll
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\obj\Release\net6.0\DigitalSignalProcess.pdb
+C:\Users\39357\Desktop\MicrophoneArray\MicrophoneArray\DigitalSignalProcess\obj\Release\net6.0\ref\DigitalSignalProcess.dll

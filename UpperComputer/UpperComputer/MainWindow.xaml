@@ -1,0 +1,35 @@
+﻿<Window x:Class="UpperComputer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UpperComputer"
+        xmlns:Oxyplot="clr-namespace:UpperComputer.Display.OxyPlot"
+        xmlns:oxy="http://oxyplot.org/wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Name="MainPanel" Orientation="Vertical" VerticalAlignment="Top">
+        <StackPanel.DataContext>
+            <Oxyplot:DataModel  x:Name="DataModel"/>
+        </StackPanel.DataContext>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+
+            <StackPanel Orientation="Vertical" VerticalAlignment="Top" Height="0">
+                <TextBlock x:Name="BufferCapacity0" Width="200" Height="20"/>
+                <TextBlock x:Name="BufferCapacity1" Width="200" Height="20"/>
+                <TextBlock x:Name="BufferCapacity2" Width="200" Height="20"/>
+                <TextBlock x:Name="BufferCapacity3" Width="200" Height="20"/>
+                <TextBlock x:Name="BufferCapacity4" Width="200" Height="20"/>
+                <TextBlock x:Name="BufferCapacity5" Width="200" Height="20"/>
+                <TextBlock x:Name="BufferCapacity6" Width="200" Height="20"/>
+                <TextBlock x:Name="BufferCapacity7" Width="200" Height="20"/>
+                <TextBlock x:Name="RefreshTimes" Width="200" Height="20"/>
+            </StackPanel>
+            <TextBlock x:Name="ResultBlock" Width="200" Height="20"/>
+            <Rectangle x:Name="SerialPortStatus" Width="20" Height="20"/>
+
+        </StackPanel>
+        <oxy:PlotView Width="600" Height="600" Model="{Binding Model}" />
+
+    </StackPanel>
+</Window>

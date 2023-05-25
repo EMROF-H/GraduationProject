@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYo2W522VPRUVuYn/T+OAlBuggclcdJMJoqujAv1DDrQE/SacQn5qtTcibp2tXYAuv3wObOBLl79EwGiZBs6/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\39357\\Desktop\\MicrophoneArray\\MicrophoneArray\\DigitalSignalProcess\\DigitalSignalProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\39357\\.nuget\\packages\\mathnet.filtering\\0.7.0\\mathnet.filtering.0.7.0.nupkg.sha512",
+    "C:\\Users\\39357\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\39357\\.nuget\\packages\\mathnet.numerics.data.matlab\\5.0.0\\mathnet.numerics.data.matlab.5.0.0.nupkg.sha512",
+    "C:\\Users\\39357\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
